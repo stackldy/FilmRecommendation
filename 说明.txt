@@ -1,0 +1,8 @@
+1.ALS(推荐算法)
+  item_base基于物品的推荐算法
+  RecommendRDD/DF基于ALS推荐模型的推荐算法
+  运行环境（hadoop+spark）
+2.movie 电影推荐系统网站
+3.tutorial(爬虫)
+4.movie.sql 数据库脚本
+5.movie.war

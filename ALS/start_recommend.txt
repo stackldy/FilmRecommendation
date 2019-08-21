@@ -1,0 +1,4 @@
+spark本地运行命令:spark-submit --master local[4] ***.py 
+
+spark在yarn之上运行命令:HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop spark-submit --master yarn --deploy-mode client ***.py 
+
